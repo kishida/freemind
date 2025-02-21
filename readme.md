@@ -2,6 +2,9 @@
 
 Support JDK 23
 
-https://sourceforge.net/projects/freemind/
+I recommend FreePlane which is the successor of FreeMind by one of the original author.  
+https://sourceforge.net/projects/freeplane/
+
+https://sourceforge.net/projects/freemind/  
 License: GPL2
 
