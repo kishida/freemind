@@ -274,7 +274,6 @@ public class FreeMind extends JFrame implements FreeMindMain {
 			Properties pUserPreferences, File pAutoPropertiesFile) {
 		super("FreeMind");
 		// Focus searcher
-		System.setSecurityManager(new FreeMindSecurityManager());
 		defProps = pDefaultPreferences;
 		props = pUserPreferences;
 		autoPropertiesFile = pAutoPropertiesFile;
